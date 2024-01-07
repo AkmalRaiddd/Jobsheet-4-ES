@@ -7,39 +7,45 @@
 
 ## 2. Source Code
 
-1. Code JSON Multi-Protocol IoT Server dapat dilihat <a href="https://github.com/ArthZ01/System-Embedded/blob/56e9a384948c7094115b371713c101f8607528e6/Jobsheet%204/B.%20Transmisi%20Data%20Menggunakan%20Protokol%20HTTP/flow%20program%20Multi-Protocol%20IoT.json">disini</a>
-2. Program ESP32 dapat dilihat <a href="https://github.com/ArthZ01/System-Embedded/blob/56e9a384948c7094115b371713c101f8607528e6/Jobsheet%204/C.%20Transmisi%20Data%20Menggunakan%20Protokol%20MQTT/program%20transmisi%20mqtt/program%20transmisi%20mqtt.ino">disini</a>
+1. Code JSON Multi-Protocol IoT Server dapat dilihat <a href="https://github.com/AkmalRaiddd/Jobsheet-4-ES/blob/main/Jobsheet%204/B.%20Transmisi%20Data%20Menggunakan%20Protokol%20HTTP/flow%20program%20Multi-Protocol%20IoT.json">disini</a>
+2. Program ESP32 dapat dilihat <a href="https://github.com/AkmalRaiddd/Jobsheet-4-ES/blob/main/Jobsheet%204/C.%20Transmisi%20Data%20Menggunakan%20Protokol%20MQTT/program%20transmisi%20mqtt/program%20transmisi%20mqtt.ino">disini</a>
 
 
 ## 3. Flow Program
-![Flow Program](https://github.com/ArthZ01/System-Embedded/assets/91934953/c94b9604-a98c-4036-9df2-14c0a48a964d)
+![Flow Program](https://github.com/AkmalRaiddd/Jobsheet-4-ES/assets/155884626/48fd9699-126d-4f10-8ff8-f851184f8d8b)
+
 
 ## 4. Hasil & Pembahasan
 ### Dokumentasi Hasil
 
 1. Flow chart 
 
-   ![Flow Chart](https://github.com/ArthZ01/System-Embedded/assets/91934953/63f63cb6-2e40-4b09-99ff-3b8c2c7e574b)
-   
-3. Output serial monitor
-   
-   ![2  Output serial monitor](https://github.com/ArthZ01/System-Embedded/assets/91934953/160587e7-6981-4552-ac6f-e0521c7a23ec)
+   ![Flow Chart](https://github.com/AkmalRaiddd/Jobsheet-4-ES/assets/155884626/1f28c26d-f7bc-437e-b970-2665d0f702a3)
 
-4. Debug Node-RED
    
-   ![3  Debug Node-RED](https://github.com/ArthZ01/System-Embedded/assets/91934953/2feaf087-a882-402b-b27e-2a4fc712dbce)
+2. Output serial monitor
    
-5. Dashboard Node-RED
+   ![2  Output serial monitor](https://github.com/AkmalRaiddd/Jobsheet-4-ES/assets/155884626/cb50579e-53a7-4bab-aa1c-4c85c871e77d)
 
-   <img src="https://github.com/ArthZ01/System-Embedded/assets/91934953/8f6d7a42-4854-496c-a174-496ae3b73e0f" width=80% height=80%>
+
+3. Debug Node-RED
    
-6. Tabel database MySQL
+   ![3  Debug Node-RED](https://github.com/AkmalRaiddd/Jobsheet-4-ES/assets/155884626/7d82911d-691a-43db-ac5e-d6440862c7a6)
+
    
-   ![image](https://github.com/ArthZ01/System-Embedded/assets/91934953/b6e71433-c1e9-4338-8658-50a975f8fb39)
+4. Dashboard Node-RED
+
+   <img src="https://github.com/AkmalRaiddd/Jobsheet-4-ES/assets/155884626/1159a8d6-f7d5-41f4-a91b-c67be28b918c" width=80% height=80%>
+   
+5. Tabel database MySQL
+   
+   ![image](https://github.com/AkmalRaiddd/Jobsheet-4-ES/assets/155884626/b9dd7061-ad8c-4d36-80bf-26274ccae6eb)
+
 
 
 ### Source Code
-![Penjelasan Kode](https://github.com/ArthZ01/System-Embedded/assets/91934953/bce2d89a-1422-4f42-99e6-76cb8ad0fb6d)
+![Penjelasan Kode](https://github.com/AkmalRaiddd/Jobsheet-4-ES/assets/155884626/2dc0c044-953a-4a2d-a392-83c2bd99c4ec)
+
 
 ### Pembahasan
 1. Bagian Awal:
@@ -76,7 +82,7 @@
 
 Catatan:
    * Kode ini menggunakan protokol MQTT untuk mengirimkan data sensor atau informasi lain dari board Arduino ke server secara berkala.
-   * Interval pengiriman data diatur dalam fungsi `loop()` (10 detik dalam kode ini).
+   * Interval pengiriman data diatur dalam fungsi `loop()` (10 detik yang digunakan).
    * Data yang dikirimkan dalam format JSON.
    * Server MQTT yang digunakan adalah `broker.hivemq.com`.
    * Kode ini dapat digunakan untuk aplikasi IoT yang membutuhkan komunikasi dua arah yang ringan dan efisien.
