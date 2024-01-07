@@ -9,37 +9,41 @@
 
 ## 2. Source Code
 
-1. Code JSON Multi-Protocol IoT Server dapat dilihat <a href="https://github.com/ArthZ01/System-Embedded/blob/b8f1c77de04d6231e3d0e72cec4f011593525534/Jobsheet%204/B.%20Transmisi%20Data%20Menggunakan%20Protokol%20HTTP/flow%20program%20Multi-Protocol%20IoT.json">disini</a>
-2. Program ESP32 kontrol nyala LED melalui dashboard Node-RED dapat dilihat <a href="https://github.com/ArthZ01/System-Embedded/blob/b8f1c77de04d6231e3d0e72cec4f011593525534/Jobsheet%204/D.%20Akuisi%20Data%20dan%20Kendali%20Perangkat%20IoT%20Menggunakan%20Protokol%20MQTT/akuisisi/akuisisi.ino">disini</a>
+1. Code JSON Multi-Protocol IoT Server dapat dilihat <a href="https://github.com/AkmalRaiddd/Jobsheet-4-ES/blob/main/Jobsheet%204/B.%20Transmisi%20Data%20Menggunakan%20Protokol%20HTTP/flow%20program%20Multi-Protocol%20IoT.json">disini</a>
+2. Program ESP32 kontrol nyala LED melalui dashboard Node-RED dapat dilihat <a href="https://github.com/AkmalRaiddd/Jobsheet-4-ES/blob/main/Jobsheet%204/D.%20Akuisi%20Data%20dan%20Kendali%20Perangkat%20IoT%20Menggunakan%20Protokol%20MQTT/akuisisi/akuisisi.ino">disini</a>
 
 ## 3. Flow Program
 
-![Flow Program](https://github.com/ArthZ01/System-Embedded/assets/91934953/8481c937-042b-4cde-918c-9d1004649e05)
+![Flow Program](https://github.com/AkmalRaiddd/Jobsheet-4-ES/assets/155884626/f36724a3-a0c8-44e6-9b8e-14a1d1084072)
+
 
 ## 4. Hasil & Penjelasan Percobaan Kontrol Nyala LED Melalui Dashboard Node-RED
 ### Dokumentasi Percobaan
 
-1. Flow chart 
+1. Flow Program 
    
-  ![Flow Program](https://github.com/ArthZ01/System-Embedded/assets/91934953/8481c937-042b-4cde-918c-9d1004649e05)
+  ![Flow Program](https://github.com/AkmalRaiddd/Jobsheet-4-ES/assets/155884626/a1296840-be4d-40da-a0ab-9a8f1b2baa33)
+
 
 2. Dokumentasi
    
-   <img src="https://github.com/ArthZ01/System-Embedded/assets/91934953/16a7145a-144a-4b9c-ac4e-87439aff962b" width=40% height=40%>   
+   <img src="https://github.com/AkmalRaiddd/Jobsheet-4-ES/assets/155884626/1ed693d4-113b-4bf8-bdc8-3454632a3a71" width=40% height=40%>   
      
-   ![2  Dokumentasi](https://github.com/ArthZ01/System-Embedded/assets/91934953/4dcee22a-5419-4a73-afb0-02c17f310d7b)
+   ![2  Dokumentasi](https://github.com/AkmalRaiddd/Jobsheet-4-ES/assets/155884626/ae302f4f-c2db-4602-893a-f99cc044e8be)
+
 
 3. Debug Node-RED
    
-   ![3  Debug Node-RED](https://github.com/ArthZ01/System-Embedded/assets/91934953/4904e0bc-3dd9-458f-a78c-08be4a0992a3)
+   ![3  Debug Node-RED](https://github.com/AkmalRaiddd/Jobsheet-4-ES/assets/155884626/a8390e35-86a0-4c79-9b81-327ba892090f)
+
 
    
 4. Dashboard Node-RED
 
-   <img src="https://github.com/ArthZ01/System-Embedded/assets/91934953/c179e801-3906-4354-bca0-46056192e4b9" width=40% height=40%>
+   <img src="https://github.com/AkmalRaiddd/Jobsheet-4-ES/assets/155884626/9833ab0b-298f-4493-81c5-696a7ed47887" width=40% height=40%>
    
 ### Kode
-<img src="https://github.com/ArthZ01/System-Embedded/assets/91934953/ac83a5a1-23e9-4a73-91e6-92d48ff74e64" height=1000rem>
+<img src="https://github.com/AkmalRaiddd/Jobsheet-4-ES/assets/155884626/43420306-1c61-46a9-9f75-e86d02de1ea8" height=1000rem>
 
 ### Pembahasan
 1. Bagian Awal:
@@ -73,7 +77,7 @@
    * Jika gagal, mencoba kembali hingga maksimal 3 kali dengan jeda 5 detik.
    * Jika gagal terhubung setelah 3 kali, menghentikan program.
      
-Catatan:
+NB:
    * Kode ini menggunakan protokol MQTT untuk mengendalikan perangkat IoT (dalam hal ini, menyalakan dan mematikan LED) dari jarak jauh melalui server Adafruit IO.
    * Server MQTT yang digunakan adalah `io.adafruit.com`.
    * Kode ini dapat dimodifikasi untuk mengendalikan berbagai macam perangkat IoT lainnya.
