@@ -17,7 +17,7 @@
 ### Dokumentasi Hasil
 1. Tampilan Awal Serial Monitor Sebelum Terhubung
 
-   ![1  Tampilan Awal Serial Monitor Sebelum Dihubungkan](https://github.com/ArthZ01/System-Embedded/assets/91934953/00a64629-aaed-4876-8403-c0e9d0839872)
+   ![1  Tampilan Awal Serial Monitor Sebelum Dihubungkan](https://github.com/AkmalRaiddd/Jobsheet-4-ES/assets/155884626/bc6ef692-1b0d-4922-9fed-9abb6872d9fe)
 
 2. Tampilan Web & WiFi
 
