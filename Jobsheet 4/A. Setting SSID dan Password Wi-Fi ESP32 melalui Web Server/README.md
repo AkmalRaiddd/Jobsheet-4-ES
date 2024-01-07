@@ -11,7 +11,7 @@
 
 ## 3. Flowchart
 
-<img src="https://github.com/ArthZ01/System-Embedded/assets/91934953/8286f7b0-52ad-4662-9eb9-9feac8efd2d0" height=700rem>
+<img src="https://github.com/AkmalRaiddd/Jobsheet-4-ES/assets/155884626/4cb2f480-147c-4c94-8ede-4adcbcc3d76b" height=700rem>
 
 ## 4. Hasil dan Pembahasan
 ### Dokumentasi Hasil
