@@ -41,31 +41,33 @@
 
 
 ### Pembahasan
-
+Beberapa kode-kode yang digunakan:
   1. Bagian Awal:
-  * Memasukkan library yang diperlukan:
-     * 'WiFi.h': untuk mengakses fungsi Wi-Fi.
+  * Memasukkan pustaka yang diperlukan:
+     * 'WiFi.h': Digunakan untuk mengakses fitur Wi-Fi.
      * Membaca kredensial WiFi yang tersimpan di EEPROM.
      * Mencoba menghubungkan ke WiFi menggunakan kredensial tersebut.
 
   2. Loop Utama:
   * Jika terkoneksi ke WiFi:
-    * Mencetak pesan konfirmasi koneksi.
+    * Menampilkan pesan bahwa telah terkoneksi.
   * Jika tidak terkoneksi ke WiFi:
-    * Mengecek status tombol untuk memaksa mode AP (Access Point).
+    * Memeriksa status tombol untuk mengharuskan mode AP (Access Point).
     * Jika tombol tidak ditekan dan koneksi gagal, memulai mode AP dan membuat halaman web untuk konfigurasi WiFi.
-    * Menunggu hingga terkoneksi ke WiFi.
+    * Menunggu hingga terjadi koneksi ke WiFi.
 
   3. Fungsi testWifi:
   * Mencoba menghubungkan ke WiFi selama 10 detik.
-  * Mengembalikan nilai 'true' jika terkoneksi, 'false' jika tidak.
+  * Menjadikan nilai 'true' jika terkoneksi, 'false' jika tidak.
 
   4. Fungsi launchWeb:
-  * Mencetak informasi IP address perangkat (local dan softAP jika ada).
+  * Mencetak IP address perangkat terkoneksi .
   * Menjalankan fungsi createWebServer untuk membuat halaman web konfigurasi WiFi.
 
   5. Fungsi setupAP:
   * Mengatur perangkat sebagai Access Point (AP) dengan nama "MiSREd IoT".
+    ![misred](https://github.com/AkmalRaiddd/Jobsheet-4-ES/assets/155884626/4f18667e-b433-4909-829a-9c2139e75d37)
+
   * Mencari jaringan WiFi di sekitar dan menyimpan daftarnya dalam variabel st.
   * Menjalankan fungsi launchWeb untuk menampilkan halaman konfigurasi WiFi.
 
@@ -76,4 +78,4 @@
     * '/setting' : Menerima kredensial WiFi baru, menyimpannya ke EEPROM, dan me-restart perangkat.
   
 ### Kesimpulan:
-Kode ini dirancang untuk memudahkan konfigurasi WiFi pada perangkat dengan menyediakan antarmuka web yang dapat diakses dari perangkat lain. Pengguna dapat mengubah kredensial WiFi tanpa perlu mengubah kode secara langsung.
+Kode ini dibuat untuk mempermudah konfigurasi WiFi pada suatu perangkat dengan menyediakan antarmuka web yang dapat diakses dari perangkat lain. Dengan cara ini, pengguna memiliki kemampuan untuk mengubah informasi kredensial WiFi tanpa harus melakukan perubahan langsung pada kode sumber.
