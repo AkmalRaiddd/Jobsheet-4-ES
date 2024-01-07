@@ -80,7 +80,7 @@
    * Menerbitkan data ke topic "flood/node1" pada server MQTT.
    * Menunggu 10 detik sebelum mengirimkan data berikutnya.
 
-Catatan:
+NB:
    * Kode ini menggunakan protokol MQTT untuk mengirimkan data sensor atau informasi lain dari board Arduino ke server secara berkala.
    * Interval pengiriman data diatur dalam fungsi `loop()` (10 detik yang digunakan).
    * Data yang dikirimkan dalam format JSON.
