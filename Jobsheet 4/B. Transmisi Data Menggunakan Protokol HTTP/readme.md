@@ -164,7 +164,7 @@ Catatan:
    * Mencatat waktu pengiriman data terakhir:
      * `lastTime = millis()` menyimpan waktu saat ini sebagai waktu terakhir pengiriman data
        
-Catatan:
+NB:
    * Kode ini menggunakan metode POST untuk mengirimkan data ke server.
    * Interval pengiriman data diatur dalam variabel `timerDelay` (5 detik yang digunakan).
    * Data yang dikirimkan dalam format JSON.
