@@ -21,7 +21,8 @@
 
 2. Tampilan Web & WiFi
 
-   ![tampilan wifi](https://github.com/ArthZ01/System-Embedded/assets/91934953/b9bfab62-391f-494b-9dac-bbf6bda4ef51)
+   ![tampilan wifi]((https://github.com/AkmalRaiddd/Jobsheet-4-ES/assets/155884626/2d7b9927-20ba-4cb0-8bfb-b9118376d943
+)
    ![2  tampilan web](https://github.com/ArthZ01/System-Embedded/assets/91934953/b1f7d66e-bfef-45f3-a4d7-6b5a824b09e2)
 
 3. Serial Monitor Setelah Memasukkan SSID dan PASS
