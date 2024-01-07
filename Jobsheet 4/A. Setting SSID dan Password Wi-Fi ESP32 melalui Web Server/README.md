@@ -15,7 +15,7 @@
 
 ## 4. Hasil dan Pembahasan
 ### Dokumentasi Hasil
-1. Tampilan Awal Serial Monitor Sebelum Dihubungkan
+1. Tampilan Awal Serial Monitor Sebelum Terhubung
 
    ![1  Tampilan Awal Serial Monitor Sebelum Dihubungkan](https://github.com/ArthZ01/System-Embedded/assets/91934953/00a64629-aaed-4876-8403-c0e9d0839872)
 
