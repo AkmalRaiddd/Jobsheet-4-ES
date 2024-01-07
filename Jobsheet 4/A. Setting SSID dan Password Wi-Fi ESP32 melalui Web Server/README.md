@@ -26,11 +26,12 @@
    ![2  tampilan web](https://github.com/AkmalRaiddd/Jobsheet-4-ES/assets/155884626/05f64d50-3906-4004-a62f-f06366779e11)
 
 
-4. Serial Monitor Setelah Memasukkan SSID dan PASS
+4. Serial Monitor Setelah Menghubungkan SSID dan PASS
 
-   ![SSID dan Pass](https://github.com/ArthZ01/System-Embedded/assets/91934953/371172c6-b42d-47f1-953c-8e28cff1680d)
+   ![SSID dan Pass](https://github.com/AkmalRaiddd/Jobsheet-4-ES/assets/155884626/f384b73a-0b5b-4bb0-9114-fb380ed652ff)
 
-   ![3  serial monitor setelah memasukan ssid dan pass](https://github.com/ArthZ01/System-Embedded/assets/91934953/51e90c6f-72ea-468b-b1d5-dcd2800f2f56)
+
+   ![3  serial monitor setelah menghubungkan ssid dan pass](https://github.com/ArthZ01/System-Embedded/assets/91934953/51e90c6f-72ea-468b-b1d5-dcd2800f2f56)
    
 5. Serial Monitor Setelah Berhasil Terhubung
 
