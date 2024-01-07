@@ -21,17 +21,17 @@
 
 2. Tampilan Web & WiFi
 
-   ![tampilan wifi]((https://github.com/AkmalRaiddd/Jobsheet-4-ES/assets/155884626/2d7b9927-20ba-4cb0-8bfb-b9118376d943
-)
+   ![tampilan wifi](https://github.com/AkmalRaiddd/Jobsheet-4-ES/assets/155884626/2d7b9927-20ba-4cb0-8bfb-b9118376d943
+   )
    ![2  tampilan web](https://github.com/ArthZ01/System-Embedded/assets/91934953/b1f7d66e-bfef-45f3-a4d7-6b5a824b09e2)
 
-3. Serial Monitor Setelah Memasukkan SSID dan PASS
+4. Serial Monitor Setelah Memasukkan SSID dan PASS
 
    ![SSID dan Pass](https://github.com/ArthZ01/System-Embedded/assets/91934953/371172c6-b42d-47f1-953c-8e28cff1680d)
 
    ![3  serial monitor setelah memasukan ssid dan pass](https://github.com/ArthZ01/System-Embedded/assets/91934953/51e90c6f-72ea-468b-b1d5-dcd2800f2f56)
    
-4. Serial Monitor Setelah Berhasil Terhubung
+5. Serial Monitor Setelah Berhasil Terhubung
 
    ![4  Serial Monitor Setelah Berhasil Terhubung](https://github.com/ArthZ01/System-Embedded/assets/91934953/6bb90203-f938-451f-8f63-ec08a626a5ed)
 
