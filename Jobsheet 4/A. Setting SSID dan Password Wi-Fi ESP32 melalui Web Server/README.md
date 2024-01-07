@@ -34,9 +34,10 @@
    ![3  serial monitor setelah menghubungkan ssid dan pass](https://github.com/AkmalRaiddd/Jobsheet-4-ES/assets/155884626/bd20ba64-81be-4f6d-9cb0-f659701ccddc)
 
    
-5. Serial Monitor Setelah Berhasil Terhubung
+5. Serial Monitor Sesudah Terhubung
 
-   ![4  Serial Monitor Setelah Berhasil Terhubung](https://github.com/ArthZ01/System-Embedded/assets/91934953/6bb90203-f938-451f-8f63-ec08a626a5ed)
+   ![4  Serial Monitor Setelah Berhasil Terhubung](https://github.com/AkmalRaiddd/Jobsheet-4-ES/assets/155884626/bb92a47e-2337-4df6-8dce-d52a649db608)
+
 
 
 ### Pembahasan
