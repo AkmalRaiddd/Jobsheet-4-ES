@@ -31,7 +31,8 @@
    ![SSID dan Pass](https://github.com/AkmalRaiddd/Jobsheet-4-ES/assets/155884626/f384b73a-0b5b-4bb0-9114-fb380ed652ff)
 
 
-   ![3  serial monitor setelah menghubungkan ssid dan pass](https://github.com/ArthZ01/System-Embedded/assets/91934953/51e90c6f-72ea-468b-b1d5-dcd2800f2f56)
+   ![3  serial monitor setelah menghubungkan ssid dan pass](https://github.com/AkmalRaiddd/Jobsheet-4-ES/assets/155884626/bd20ba64-81be-4f6d-9cb0-f659701ccddc)
+
    
 5. Serial Monitor Setelah Berhasil Terhubung
 
